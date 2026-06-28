@@ -1,0 +1,293 @@
+================================================================================
+SUPERSTORE TOP 10 SELLING PRODUCTS — WEB INTELLIGENCE REPORT
+Generated: 2026-06-21
+Source: Supabase fact_orders + Web Search (Brave Search API)
+================================================================================
+
+RANK #1
+--------------------------------------------------------------------------------
+Product ID   : TEC-CO-10004722
+Product Name : Canon imageCLASS 2200 Advanced Copier
+Category     : Technology > Copiers
+DB Metrics   : Revenue $61,599.82 | Units Sold 20 | Profit $25,199.93 | Margin ~40.9%
+
+WEB INTELLIGENCE:
+- Type: Digital multifunction copier (copy, print, scan, fax)
+- Print Speed: 17 pages per minute (monochrome)
+- Resolution: Up to 1200 x 600 dpi
+- Paper Capacity: 250-sheet cassette, supports up to 11" x 17"
+- Duty Cycle: Up to 50,000 pages per month — suitable for office use
+- Memory: 6MB standard Image Server memory
+- Technology: Scan-Once-Print-Many; EP-62 replaceable Single Print Cartridge
+- Connectivity: Optional network printing and 33.6 Kbps faxing
+- Market Price: ~$286/unit (dealer pricing varies)
+- Note: Strong 40.9% profit margin in our data — highest-margin product in top 10
+
+Sources:
+- https://www.usa.canon.com/internet/portal/us/home/products/details/printers/support-laser-printers-imageclass/imageclass-2200
+- https://www.accio.ai/find-product/canon-imageclass-2200-advanced-copier
+- https://americanbusinesscopiers.com/wp-content/uploads/2017/01/2200brochure.pdf
+
+================================================================================
+
+RANK #2
+--------------------------------------------------------------------------------
+Product ID   : OFF-BI-10003527
+Product Name : Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind
+Category     : Office Supplies > Binders
+DB Metrics   : Revenue $27,453.38 | Units Sold 31 | Profit $7,753.04 | Margin ~28.2%
+
+WEB INTELLIGENCE:
+- Type: Heavy-duty electric punch comb binding machine
+- Best comparable model in current Fellowes lineup: Orion E 500
+- Punch Capacity: 30 sheets of 20# paper per pass
+- Bind Capacity: Up to 425 sheets on a 2" comb
+- Special Features: 21 disengageable pins for clean punching; adjustable edge guide;
+  adjustable punch depth control for large documents; all metal construction
+- Built-in paper guide for choosing correct comb size
+- Target Environment: High-volume binding in large office settings
+- Note: PB500 model appears discontinued; Fellowes Orion E 500 is the current successor
+
+Sources:
+- https://www.fellowes-machines.com/products/fellowes-galaxy-500-instruction-manual-comb-binding-machine
+- https://www.laminator.com/fellowes-orion-e-500-electric-punch-plastic-comb-binding-machine.html
+- https://www.schoolspecialty.com/fellowes-orion-e-500-electric-comb-binding-machine-2-inch-comb-binds-up-to-500-sheets-punches-30-sheets-2021494
+
+================================================================================
+
+RANK #3
+--------------------------------------------------------------------------------
+Product ID   : TEC-MA-10002412
+Product Name : Cisco TelePresence System EX90 Videoconferencing Unit
+Category     : Technology > Machines
+DB Metrics   : Revenue $22,638.48 | Units Sold 6 | Profit -$1,811.08 | Margin -8.0%
+
+WEB INTELLIGENCE:
+- Type: All-in-one desktop telepresence / video conferencing system
+- Display: 24-inch integrated display, 1920 x 1200 native resolution
+- Video: 1080p30 and 720p60 video call quality
+- Camera: Cisco TelePresence PrecisionHD, F1.7 aperture, 45–65° field of view
+- Audio: Auto gain control, echo cancellation; dual front speakers + integrated subwoofer
+- Protocols: H.323 and SIP; up to 6 Mbps point-to-point bandwidth
+- Connectivity: Ethernet, HDMI, DVI-Analog/Digital
+- Multipoint: Optional license for up to 4 video sites on one call
+- Second display: HDMI out for dedicated content screen
+- End-of-Sale: February 22, 2017 — succeeded by Cisco DX80
+- Note: LOSS-MAKING product in our data (-8% margin); high unit price with heavy discounting likely
+
+Sources:
+- https://www.cisco.com/c/en/us/products/collateral/collaboration-endpoints/telepresence-system-ex-series/data_sheet_c78-627494.html
+- https://www.tkoworks.com/video-conferencing/equipment/cisco/ex-series/ex90.html
+- https://www.ipphone-warehouse.com/Cisco-TelePresence-EX90-p/cts-ex90-k9.htm
+
+================================================================================
+
+RANK #4
+--------------------------------------------------------------------------------
+Product ID   : FUR-CH-10002024
+Product Name : HON 5400 Series Task Chairs for Big and Tall
+Category     : Furniture > Chairs
+DB Metrics   : Revenue $21,870.58 | Units Sold 39 | Profit $0.00 | Margin 0.0%
+
+WEB INTELLIGENCE:
+- Type: Big & Tall ergonomic task seating (high-back and mid-back variants)
+- Dimensions: 30"D x 31"W x 44-3/4"H (mid-back configuration)
+- Weight Capacity: Up to 450 lbs
+- Base: Extra large cast aluminum base for stability
+- Upholstery: Stain-resistant fabric
+- Controls: Robustly engineered, specifically designed for big/tall users
+- Available Finishes: Multiple fabric options and color configurations
+- Market Price Range: $884.00 – $1,406.00 depending on model/configuration
+- Note: Zero profit in our data — perfectly break-even product; may be sold at cost
+  to drive furniture category volume
+
+Sources:
+- https://designjournalmag.com/products/detail/2081-task-seating/18201-5400-series
+- https://www.officeworld.com/shop/HON5403AB12T/14Q1/
+- https://www.newegg.com/hon/p/N82E16846201573
+
+================================================================================
+
+RANK #5
+--------------------------------------------------------------------------------
+Product ID   : OFF-BI-10001359
+Product Name : GBC DocuBind TL300 Electric Binding System
+Category     : Office Supplies > Binders
+DB Metrics   : Revenue $19,823.48 | Units Sold 37 | Profit $2,233.51 | Margin ~11.3%
+
+WEB INTELLIGENCE:
+- Type: Electric comb punch and bind system
+- Punch Capacity: 12 sheets of 20 lb. / 80 gsm paper per pass
+- Cover Punching: 2 clear covers at a time maximum
+- Design Feature: Exclusive wire holder — assemble document as you punch
+  (load paper onto comb during punching process)
+- Technology: Advanced punching mechanism for greater reliability under high volume
+- Safety: Indoor use only; no user-serviceable parts; contact GBC authorized service
+- Note: Thin margin (11.3%) despite high unit count — likely competitive price pressure
+  in the binding machine category
+
+Sources:
+- https://www.mybinding.com/media/manuals/gbc_docubind_tl300_manual.pdf
+- https://www.manualslib.com/manual/56756/Gbc-Docubind-Tl300.html
+
+================================================================================
+
+RANK #6
+--------------------------------------------------------------------------------
+Product ID   : OFF-BI-10000545
+Product Name : GBC Ibimaster 500 Manual ProClick Binding System
+Category     : Office Supplies > Binders
+DB Metrics   : Revenue $19,024.50 | Units Sold 48 | Profit $760.98 | Margin ~4.0%
+
+WEB INTELLIGENCE:
+- Type: Manual ProClick binding system (GBC Ibimaster 500 / ProClick family)
+- Binding Style: ProClick — reusable spines that allow easy opening/reclosing of documents
+- Related Current Models: GBC ProClick P50 (6-sheet punch), P110 (15-sheet punch),
+  P200, P3000
+- Key ProClick Advantage: Spines can be opened and re-closed — ideal for living
+  documents that are frequently updated
+- "Ibimaster 500" label not found under this exact name in current product listings;
+  likely a regional or legacy SKU name for the ProClick 500-sheet capacity model
+- Note: Very thin margin (4.0%) — heavily discounted, high unit volume (48 units);
+  most sold product in top 10 by unit count
+
+Sources:
+- https://www.gbc.com/p/binding/binding-machines/modular-binding-systems/gbc-proclick-p50-desktop-binding-punch-punches-6-sheets/
+- https://www.mybinding.com/binding/binding-machines/gbc-proclick.html
+- https://www.binding101.com/binding-styles/gbc-pro-click
+
+================================================================================
+
+RANK #7
+--------------------------------------------------------------------------------
+Product ID   : TEC-CO-10001449
+Product Name : Hewlett Packard LaserJet 3310 Copier
+Category     : Technology > Copiers
+DB Metrics   : Revenue $18,839.69 | Units Sold 38 | Profit $6,983.88 | Margin ~37.1%
+
+WEB INTELLIGENCE:
+- Model: HP LaserJet 3310 Digital Printer Copier (C9709A#ABA)
+- Type: Multifunction laser copier/printer (monochrome)
+- Series: HP LaserJet 3300 Multifunction Printer Series
+- Print Output: Sharp, crisp text with excellent contrast
+- Part of HP's LaserJet 3300 MFP lineup (copy, print, scan, fax)
+- Available via HP official store with customer reviews and comparisons
+- Note: Second strongest margin in top 10 (37.1%) alongside Canon — copiers clearly
+  the most profitable technology sub-category in this dataset
+
+Sources:
+- https://www.hp.com/us-en/shop/pdp/hp-laserjet-3310-digital-printer-copier
+- https://support.hp.com/us-en/product/setup-user-guides/hp-laserjet-3300-multifunction-printer-series/model/66373
+
+================================================================================
+
+RANK #8
+--------------------------------------------------------------------------------
+Product ID   : TEC-MA-10001127
+Product Name : HP Designjet T520 Inkjet Large Format Printer - 24" Color
+Category     : Technology > Machines
+DB Metrics   : Revenue $18,374.90 | Units Sold 12 | Profit $4,094.98 | Margin ~22.3%
+
+WEB INTELLIGENCE:
+- Type: Large format color inkjet printer / plotter
+- Print Width: 24 inches (610 mm)
+- Resolution: Up to 2400 x 1200 dpi; 5.5 pl minimum ink drop (color)
+- Print Speed: 275 sq ft/hour; up to 35 seconds for Arch D (24" x 36") prints
+- Media: Built-in tray for A4–A3 cut sheets; front-loading roll feed up to 24" wide
+- Display: 4.3" color touchscreen
+- Connectivity: Wi-Fi, Ethernet, AirPrint, HP ePrint
+- RAM: 1 GB for complex file processing
+- Software: HP Click printing software; HP ePrint & Share for remote printing
+- Language: HP-GL/2
+- Use Cases: Architectural drawings, maps, photos, presentations
+- Note: Healthy 22.3% margin on a niche professional product — strong specialist demand
+
+Sources:
+- https://www.bhphotovideo.com/c/product/895115-REG/HP_Hewlett_Packard_cq890ab1k_Designjet_T520_24_Color.html
+- https://www.hp.com/us-en/shop/pdp/hp-designjet-t520-24-in-eprinter
+- http://m.tigerdirect.com/applications/SearchTools/item-details.asp?EdpNo=4907227
+
+================================================================================
+
+RANK #9
+--------------------------------------------------------------------------------
+Product ID   : OFF-BI-10004995
+Product Name : GBC DocuBind P400 Electric Binding System
+Category     : Office Supplies > Binders
+DB Metrics   : Revenue $17,965.07 | Units Sold 27 | Profit -$1,878.17 | Margin -10.5%
+
+WEB INTELLIGENCE:
+- Type: Electric punch + manual comb close binding system
+- Punch Speed: Up to 20 pages of A4 paper in under 2 seconds (electric)
+- Binding Capacity: Up to 51 mm (plastic ring binding)
+- Punch Adjustment: 2-stage depth adjustment; supports 11–21 ring configurations
+- Hole Type: Square holes for plastic rings
+- Workflow: Punch electrically → insert rings manually → close rings manually
+- Electrical: 3A, 250V, 50/60 Hz; Class 1, 3-conductor cord
+- Note: LOSS-MAKING product (-10.5% margin) — worst margin in top 10; heavy discounting
+  is destroying value; this product needs discount policy intervention
+
+Sources:
+- https://auschoice.com/shop/gbc-docubind-p400-comb-binder-20-pages-80gsm-electric-punch-manual-bind/
+- https://www.manualslib.com/manual/56755/Gbc-Docubind-P400.html
+- http://www.print-finishing-paper-handling.co.uk/binding/GBC/P400.htm
+
+================================================================================
+
+RANK #10
+--------------------------------------------------------------------------------
+Product ID   : OFF-SU-10000151
+Product Name : High Speed Automatic Electric Letter Opener
+Category     : Office Supplies > Supplies
+DB Metrics   : Revenue $17,030.31 | Units Sold 11 | Profit -$262.00 | Margin -1.5%
+
+WEB INTELLIGENCE:
+- Type: High-speed automatic electric envelope/letter opener
+- Closest Match: Martin Yale 62001 High-Speed Automatic Letter Opener
+- Speed: Up to 17,500 envelopes per hour
+- Envelope Capacity: Opens envelopes up to 1/4" thick; stacks up to 6" tall
+- Electrical: 115/230V dual voltage
+- Safety: Fully enclosed/concealed blade; non-skid base; hands-free operation
+- Output: Removable receiving tray for neat stacking of opened envelopes
+- High-Volume Alternative: Omation Model 606 (up to 40,000 envelopes/hour)
+- Use Case: High-volume mail processing environments (mailrooms, financial services)
+- Note: Marginally loss-making (-1.5%); low unit count (11) with very high unit price;
+  likely a niche mailroom product sold at near-cost
+
+Sources:
+- https://www.whitakerbrothers.com/products/martin-yale-62001-letter-opener
+- https://lestallion.com/blogs/product-reviews/best-electric-letter-openers
+- https://www.binding101.com/martin-yale-62001-high-speed-letter-opener-w-tray
+
+================================================================================
+SUMMARY INTELLIGENCE TABLE
+================================================================================
+
+Rank | Product (Short)               | Category          | Revenue     | Profit      | Margin
+-----|-------------------------------|-------------------|-------------|-------------|--------
+1    | Canon imageCLASS 2200         | Tech > Copiers    | $61,599.82  | $25,199.93  | +40.9%
+2    | Fellowes PB500 Binding        | Off Sup > Binders | $27,453.38  | $7,753.04   | +28.2%
+3    | Cisco TelePresence EX90       | Tech > Machines   | $22,638.48  | -$1,811.08  | -8.0%
+4    | HON 5400 Task Chair           | Furniture > Chairs| $21,870.58  | $0.00       |  0.0%
+5    | GBC DocuBind TL300            | Off Sup > Binders | $19,823.48  | $2,233.51   | +11.3%
+6    | GBC Ibimaster 500 ProClick    | Off Sup > Binders | $19,024.50  | $760.98     | +4.0%
+7    | HP LaserJet 3310 Copier       | Tech > Copiers    | $18,839.69  | $6,983.88   | +37.1%
+8    | HP Designjet T520 24"         | Tech > Machines   | $18,374.90  | $4,094.98   | +22.3%
+9    | GBC DocuBind P400             | Off Sup > Binders | $17,965.07  | -$1,878.17  | -10.5%
+10   | Electric Letter Opener        | Off Sup > Supplies| $17,030.31  | -$262.00    | -1.5%
+
+KEY INSIGHTS FROM WEB INTELLIGENCE:
+  1. Copiers (Canon + HP LaserJet) are star performers: 37–41% margins, well-established
+     products with strong brand recognition and long market histories.
+  2. Three products are loss-making despite high revenue rank: Cisco EX90 (EOL product,
+     sold at loss), GBC P400 (over-discounted), and the Letter Opener (niche, low volume).
+  3. GBC Binders dominate the top 10 by count (4 products) but with thin to negative
+     margins — a clear signal of excessive discounting in the binders sub-category.
+  4. Cisco EX90 reached end-of-sale in 2017 — stale inventory sold below cost is the
+     likely explanation for its negative margin in the dataset.
+  5. HON 5400 Chair: zero profit on $21K revenue — pricing set exactly at cost, possibly
+     used as a loss-leader or volume driver for the furniture category.
+
+================================================================================
+END OF REPORT
+================================================================================

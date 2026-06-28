@@ -1,0 +1,24 @@
+# Environment & secrets
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Claude Code internal
+.claude/settings.local.json
+
+# Playwright MCP cache
+.playwright-mcp/
+
+# Logs
+*.log
+superset_build.log
